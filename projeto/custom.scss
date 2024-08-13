@@ -1,0 +1,23 @@
+$colors: (
+  "blue": $blue,
+  "indigo": $indigo,
+  "purple": $purple,
+  "pink": $pink,
+  "red": $red,
+  "orange": $orange,
+  "yellow": $yellow,
+  "green": $green,
+  "teal": $teal,
+  "cyan": $cyan,
+  "white": $white,
+  "gray": $gray-600,
+  "gray-dark": $gray-800
+) !default;
+
+
+
+
+.navbar {
+  background-color: #ff0000; /* Cor de fundo vermelha */
+  padding: 10px 0;
+}

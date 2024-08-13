@@ -1,0 +1,9 @@
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+.navbar {
+    background-color: #ae0000;
+    padding: 10px 0;
+}
